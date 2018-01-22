@@ -1,6 +1,6 @@
 # AdvancedWebView
 
-Enhanced WebView component for Android that works as intended out of the box
+Enhanced WebView component for Android that works as intended out of the box. Thunkable edit to fix bug in chrome webview version 63 that should be fixed in 64
 
 ## Requirements
 
